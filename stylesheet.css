@@ -4,3 +4,13 @@ body {
 p {
   font-size: 14px;
 }
+nav {
+ color: #261C15;
+ size: 50px;
+ font-family: Georgia;
+ background-color: #F7F7F2;
+ text-align: center;
+}
+ a {
+  text-decoration:none;
+ }
